@@ -1,4 +1,0 @@
-module HotKey {
-    header "/Users/yeyuanbozhizhu/Desktop/2026/january/项目1/.build/arm64-apple-macosx/release/HotKey.build/HotKey-Swift.h"
-    requires objc
-}

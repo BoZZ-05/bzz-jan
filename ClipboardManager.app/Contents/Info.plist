@@ -5,13 +5,13 @@
     <key>CFBundleExecutable</key>
     <string>ClipboardManager</string>
     <key>CFBundleIdentifier</key>
-    <string>com.yourname.ClipboardManager</string>
+    <string>com.clipboardmanager.app</string>
     <key>CFBundleName</key>
     <string>ClipboardManager</string>
     <key>CFBundleShortVersionString</key>
     <string>1.0</string>
     <key>CFBundleVersion</key>
-    <string>1</string>
+    <string>202601270000</string>
     <key>CFBundlePackageType</key>
     <string>APPL</string>
     <key>LSUIElement</key>
