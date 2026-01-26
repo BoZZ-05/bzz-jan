@@ -52,10 +52,10 @@ sudo xattr -r -d com.apple.quarantine /Applications/ClipboardManager.app
 ### 编译步骤
 1.  克隆仓库：
     ```bash
-    git clone https://github.com/YOUR_USERNAME/ClipboardManager.git
-    cd ClipboardManager
+    git clone https://github.com/BoZZ-05/bzz-jan.git
+    cd bzz-jan
     ```
-2.  运行打包脚本（自动编译并生成 .app）：
+2.  运行打包脚本（自动编译并生成 DMG）：
     ```bash
     chmod +x package_app.sh
     ./package_app.sh

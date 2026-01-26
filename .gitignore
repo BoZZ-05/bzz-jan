@@ -1,1 +1,8 @@
 .build/
+.swiftpm/
+*.xcodeproj
+*.xcworkspace
+.DS_Store
+ClipboardManager.app/
+*.dmg
+*.zip
