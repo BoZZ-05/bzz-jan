@@ -1,0 +1,47 @@
+{
+  "": {
+    "swift-dependencies": "/Users/yeyuanbozhizhu/Desktop/2026/january/项目1/.build/arm64-apple-macosx/debug/ClipboardManager.build/master.swiftdeps"
+  },
+  "/Users/yeyuanbozhizhu/Desktop/2026/january/项目1/Sources/ClipboardManager/ClipboardManagerApp.swift": {
+    "dependencies": "/Users/yeyuanbozhizhu/Desktop/2026/january/项目1/.build/arm64-apple-macosx/debug/ClipboardManager.build/ClipboardManagerApp.d",
+    "object": "/Users/yeyuanbozhizhu/Desktop/2026/january/项目1/.build/arm64-apple-macosx/debug/ClipboardManager.build/ClipboardManagerApp.swift.o",
+    "swiftmodule": "/Users/yeyuanbozhizhu/Desktop/2026/january/项目1/.build/arm64-apple-macosx/debug/ClipboardManager.build/ClipboardManagerApp~partial.swiftmodule",
+    "swift-dependencies": "/Users/yeyuanbozhizhu/Desktop/2026/january/项目1/.build/arm64-apple-macosx/debug/ClipboardManager.build/ClipboardManagerApp.swiftdeps"
+  },
+  "/Users/yeyuanbozhizhu/Desktop/2026/january/项目1/Sources/ClipboardManager/Model/ClipboardItem.swift": {
+    "dependencies": "/Users/yeyuanbozhizhu/Desktop/2026/january/项目1/.build/arm64-apple-macosx/debug/ClipboardManager.build/ClipboardItem.d",
+    "object": "/Users/yeyuanbozhizhu/Desktop/2026/january/项目1/.build/arm64-apple-macosx/debug/ClipboardManager.build/ClipboardItem.swift.o",
+    "swiftmodule": "/Users/yeyuanbozhizhu/Desktop/2026/january/项目1/.build/arm64-apple-macosx/debug/ClipboardManager.build/ClipboardItem~partial.swiftmodule",
+    "swift-dependencies": "/Users/yeyuanbozhizhu/Desktop/2026/january/项目1/.build/arm64-apple-macosx/debug/ClipboardManager.build/ClipboardItem.swiftdeps"
+  },
+  "/Users/yeyuanbozhizhu/Desktop/2026/january/项目1/Sources/ClipboardManager/Service/ClipboardMonitor.swift": {
+    "dependencies": "/Users/yeyuanbozhizhu/Desktop/2026/january/项目1/.build/arm64-apple-macosx/debug/ClipboardManager.build/ClipboardMonitor.d",
+    "object": "/Users/yeyuanbozhizhu/Desktop/2026/january/项目1/.build/arm64-apple-macosx/debug/ClipboardManager.build/ClipboardMonitor.swift.o",
+    "swiftmodule": "/Users/yeyuanbozhizhu/Desktop/2026/january/项目1/.build/arm64-apple-macosx/debug/ClipboardManager.build/ClipboardMonitor~partial.swiftmodule",
+    "swift-dependencies": "/Users/yeyuanbozhizhu/Desktop/2026/january/项目1/.build/arm64-apple-macosx/debug/ClipboardManager.build/ClipboardMonitor.swiftdeps"
+  },
+  "/Users/yeyuanbozhizhu/Desktop/2026/january/项目1/Sources/ClipboardManager/Service/HotKeyService.swift": {
+    "dependencies": "/Users/yeyuanbozhizhu/Desktop/2026/january/项目1/.build/arm64-apple-macosx/debug/ClipboardManager.build/HotKeyService.d",
+    "object": "/Users/yeyuanbozhizhu/Desktop/2026/january/项目1/.build/arm64-apple-macosx/debug/ClipboardManager.build/HotKeyService.swift.o",
+    "swiftmodule": "/Users/yeyuanbozhizhu/Desktop/2026/january/项目1/.build/arm64-apple-macosx/debug/ClipboardManager.build/HotKeyService~partial.swiftmodule",
+    "swift-dependencies": "/Users/yeyuanbozhizhu/Desktop/2026/january/项目1/.build/arm64-apple-macosx/debug/ClipboardManager.build/HotKeyService.swiftdeps"
+  },
+  "/Users/yeyuanbozhizhu/Desktop/2026/january/项目1/Sources/ClipboardManager/Service/PasteService.swift": {
+    "dependencies": "/Users/yeyuanbozhizhu/Desktop/2026/january/项目1/.build/arm64-apple-macosx/debug/ClipboardManager.build/PasteService.d",
+    "object": "/Users/yeyuanbozhizhu/Desktop/2026/january/项目1/.build/arm64-apple-macosx/debug/ClipboardManager.build/PasteService.swift.o",
+    "swiftmodule": "/Users/yeyuanbozhizhu/Desktop/2026/january/项目1/.build/arm64-apple-macosx/debug/ClipboardManager.build/PasteService~partial.swiftmodule",
+    "swift-dependencies": "/Users/yeyuanbozhizhu/Desktop/2026/january/项目1/.build/arm64-apple-macosx/debug/ClipboardManager.build/PasteService.swiftdeps"
+  },
+  "/Users/yeyuanbozhizhu/Desktop/2026/january/项目1/Sources/ClipboardManager/UI/FloatingPanel.swift": {
+    "dependencies": "/Users/yeyuanbozhizhu/Desktop/2026/january/项目1/.build/arm64-apple-macosx/debug/ClipboardManager.build/FloatingPanel.d",
+    "object": "/Users/yeyuanbozhizhu/Desktop/2026/january/项目1/.build/arm64-apple-macosx/debug/ClipboardManager.build/FloatingPanel.swift.o",
+    "swiftmodule": "/Users/yeyuanbozhizhu/Desktop/2026/january/项目1/.build/arm64-apple-macosx/debug/ClipboardManager.build/FloatingPanel~partial.swiftmodule",
+    "swift-dependencies": "/Users/yeyuanbozhizhu/Desktop/2026/january/项目1/.build/arm64-apple-macosx/debug/ClipboardManager.build/FloatingPanel.swiftdeps"
+  },
+  "/Users/yeyuanbozhizhu/Desktop/2026/january/项目1/Sources/ClipboardManager/UI/HistoryView.swift": {
+    "dependencies": "/Users/yeyuanbozhizhu/Desktop/2026/january/项目1/.build/arm64-apple-macosx/debug/ClipboardManager.build/HistoryView.d",
+    "object": "/Users/yeyuanbozhizhu/Desktop/2026/january/项目1/.build/arm64-apple-macosx/debug/ClipboardManager.build/HistoryView.swift.o",
+    "swiftmodule": "/Users/yeyuanbozhizhu/Desktop/2026/january/项目1/.build/arm64-apple-macosx/debug/ClipboardManager.build/HistoryView~partial.swiftmodule",
+    "swift-dependencies": "/Users/yeyuanbozhizhu/Desktop/2026/january/项目1/.build/arm64-apple-macosx/debug/ClipboardManager.build/HistoryView.swiftdeps"
+  }
+}
